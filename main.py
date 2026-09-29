@@ -18,7 +18,7 @@ while True:
     save_weather_record(weather)
     print("Pobieram dane pogodowe")
 
-    time.sleep(15)
+    #time.sleep(15)
 
 
 
