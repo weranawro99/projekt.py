@@ -20,6 +20,7 @@ while True:
 
     #time.sleep(15)
 
+#kolejna wersja do nazwa_galezi
 
 
 # if "__main__" == __name__:
